@@ -11,4 +11,4 @@
 -   Web app using **JavaScript** (Basic Project).
 -   Click Next & Prev to change the image.
 
-### Check it out [here](https://surajitpore0.github.io/Calculator-js/) .
+### Check it out [here](https://surajitpore0.github.io/image-next-prev-js/) .
